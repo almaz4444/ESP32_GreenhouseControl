@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Greenhouse",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
